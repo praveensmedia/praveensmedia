@@ -4,7 +4,7 @@
 - 📫 How to reach me - ping me on pk@praveensmedia.com
 
 Technologis I'm fluent in:
-- I make "Native Apps" only
+- I build "Native Apps" only
 - Android development
 - Kotlin and Java for Android
 - Clean Architecture
@@ -18,8 +18,16 @@ Technologis I'm fluent in:
 - Rest APIs
 - Gson
 - Volly
+more..
 
-Apps On Google Play Store:
+Apps built by me - On Google Play Store:
+myNodeMCU -> https://play.google.com/store/apps/details?id=com.praveensmedia.mynodemcuconfig_control
+FireioT   -> https://play.google.com/store/apps/details?id=com.sabkoiot.fire
+Sepal     -> https://play.google.com/store/apps/details?id=com.sagiam.newsepal
+
+Built Few Customised Apps as per Client Requirement.
+For Example: I build a Train Announcement App for a client.
+
 
 <!---
 praveensmedia/praveensmedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
