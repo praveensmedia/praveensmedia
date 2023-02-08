@@ -3,7 +3,7 @@
 - 👀 I’m looking to collaborate on UI/UX design for Android and ios
 - 📫 How to reach me - ping me on pk@praveensmedia.com
 
-Technologis I'm fluent in:
+##Technologis I'm fluent in:
 - I build "Native Apps" only
 - Android development
 - Kotlin and Java for Android
@@ -20,7 +20,7 @@ Technologis I'm fluent in:
 - Volly
 more..
 
-Apps built by me - On Google Play Store: <br />
+##Apps built by me - On Google Play Store: <br />
 myNodeMCU -> https://play.google.com/store/apps/details?id=com.praveensmedia.mynodemcuconfig_control <br />
 FireioT   -> https://play.google.com/store/apps/details?id=com.sabkoiot.fire <br />
 Sepal     -> https://play.google.com/store/apps/details?id=com.sagiam.newsepal <br />
