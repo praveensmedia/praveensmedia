@@ -20,12 +20,12 @@ Technologis I'm fluent in:
 - Volly
 more..
 
-Apps built by me - On Google Play Store:
-myNodeMCU -> https://play.google.com/store/apps/details?id=com.praveensmedia.mynodemcuconfig_control
-FireioT   -> https://play.google.com/store/apps/details?id=com.sabkoiot.fire
-Sepal     -> https://play.google.com/store/apps/details?id=com.sagiam.newsepal
+Apps built by me - On Google Play Store: <br />
+myNodeMCU -> https://play.google.com/store/apps/details?id=com.praveensmedia.mynodemcuconfig_control <br />
+FireioT   -> https://play.google.com/store/apps/details?id=com.sabkoiot.fire <br />
+Sepal     -> https://play.google.com/store/apps/details?id=com.sagiam.newsepal <br />
 
-Built Few Customised Apps as per Client Requirement.
+Built Few Customised Apps as per Client Requirement. <br />
 For Example: I build a Train Announcement App for a client.
 
 
