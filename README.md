@@ -17,7 +17,8 @@ Technologis I'm fluent in:
 - Rest APIs
 - Gson
 - Volly
-more..
+- Typesense <br />
+& more..
 
 Apps built by me - On Google Play Store: <br />
 myNodeMCU -> https://play.google.com/store/apps/details?id=com.praveensmedia.mynodemcuconfig_control <br />
