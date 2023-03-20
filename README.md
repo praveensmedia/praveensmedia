@@ -1,12 +1,14 @@
 - 👋 Hi, I’m Praveen Kumar @praveensmedia
 - 💞️ I’m interested in anything related to Technology
-- 👀 I’m looking to collaborate on UI/UX design for Android and ios
 - 📫 How to reach me - ping me on pk@praveensmedia.com
 Technologis I'm fluent in:
 - I build "Native Apps" only
-- Android development
 - Kotlin and Java for Android
-- Clean Architecture
+- Kotlin Coroutines
+- UI with XML and Jetpack Compose for Android
+- MVVM with Clean Architecture
+- Dependency Injection with Dagger-Hilt Library
+- Datastore and Room Library
 - Android Management API
 - Here maps and Google Maps Integration
 - GCP and Firebase
@@ -16,7 +18,7 @@ Technologis I'm fluent in:
 - Android MediaSessionManager
 - Rest APIs
 - Gson
-- Volly
+- Volly, Ktor Client and Ktor Server
 - Typesense <br />
 & more..
 
