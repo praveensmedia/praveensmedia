@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Praveen Kumar @praveensmedia
 - 💞️ I’m interested in anything related to Technology
-- 📫 How to reach me - ping me on pk@praveensmedia.com
+- 📫 How to reach me - ping me on admin@xpertxyz.in
 Technologis I'm fluent in:
-- I build "Native Apps" only
-- Kotlin and Java for Android
+- I build "Native Apps" and Compose multiplatform Applications
+- Kotlin and Java
+- Jetpack Compose
+- Compose Multiplatform
 - Kotlin Coroutines
 - UI with XML and Jetpack Compose for Android
 - MVVM with Clean Architecture
